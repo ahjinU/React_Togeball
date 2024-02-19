@@ -1,4 +1,4 @@
-
+![image](https://github.com/ahjinU/React_Togeball/assets/99533526/32d14fb9-b0d3-4d46-a935-14498bb2246f)![matching](https://github.com/ahjinU/React_Togeball/assets/99533526/6670f74b-b978-48e0-8ced-a3f2b6d606a4)
 
 # ⚾️ Togeball - 야구 직관 메이트 매칭 플랫폼
 
@@ -71,7 +71,7 @@
 
 ### 매칭 시스템
 
-<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/4a76b298-7117-4592-829f-38a951f79ef9" width="1000" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/32d973a9-c4a5-4404-a51e-a95127095878" width="1000" height="600">
 
 - 매칭 
     - 프론트: 웹소켓을 이용한 통신, d3를 이용한 데이터 시각화 및 인터랙티브웹 구현
@@ -80,7 +80,7 @@
 
 ### 채팅 시스템
 
-<img src="/uploads/ca21120ad75e06caaabe571a802c0820/chatting.gif" width="1000" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/214f2480-6f0e-4e28-b803-83dd8f15f002" width="1000" height="600">
 
 - 채팅
     - 프론트: 웹소켓과 stomp 프로토콜을 이용한 통신, 이미지 전송 가능
@@ -93,8 +93,7 @@
 
 #### 매칭 시스템
 
-
-<img src="/uploads/df5967699187ce6d0a3ea2404ba48b92/matching.gif" width="1000" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/4d0728be-efc9-4f91-b625-30574df072fd" width="1000" height="600">
 
 - 매칭 클릭 시 매칭을 시도하는 사람들과의 사용자 태그 기반 매칭 적용
 - 상위 6개의 태그 애니메이션으로 표시
