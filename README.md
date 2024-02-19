@@ -204,7 +204,8 @@
 <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/5986a15a-8b0f-4cf8-8273-75734e2dd1be" width="1000" height="600">
 
 #### Figma 화면 설계서
-<img src="/uploads/5e8cb2e4a208929f44bcd9be87b465ee/figmain.png" width="1000" height="600">
+
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/1f765ca1-bd80-4b74-9340-f7c3da0078fb" width="1000" height="600">
 
 
 #### 회고
