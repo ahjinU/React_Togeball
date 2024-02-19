@@ -2,8 +2,7 @@
 
 # ⚾️ Togeball - 야구 직관 메이트 매칭 플랫폼
 
-<img src="/uploads/6dcb2dbf8e1efed220d0c5e307b3e6ba/togeball_logo1.png" width="500" height="300">
-
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/4681b00b-2244-46a6-91e2-3c5475b80c6d" width="500" height="300">
 
 ## 목차
 - 팀소개
@@ -52,27 +51,27 @@
 ### 프론트엔드
 | TypeScript |    React   |  StyeldComponent   |  Zustand |
 | :--------: | :--------: | :------: | :-----: |
-|   <img src="/uploads/296ca86b204eac0daf04aad55a5e6b26/image.png" width="100" height="100">    |   <img src="/uploads/3f21f61ff5941103ebeb216c83c65607/image-1.png" width="100" height="100">    | <img src="/uploads/bc6ee5a8d68f33b8bd193abf623aa3bf/image-2.png" width="100" height="100"> | <img src="/uploads/4e3e91384015b03b8bf66ab093380af7/image-3.png" width="100" height="100"> |
+|   <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/6a599791-e929-4e42-bd48-11cc921056b8" width="100" height="100">    |   <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/884ebfc7-33dd-461d-a2a0-127553ad4fb8" width="100" height="100">    | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/c9f8bade-912b-465f-8cb2-a250f4b56a1d" width="100" height="100"> | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/c38d6917-a859-4088-a55e-b63ad6707c8f" width="100" height="100"> |
 
 ### 백엔드
 
 | SpringBoot |   MariaDB  |  MongoDB   |  Redis | RabbitMQ | 
 | :--------: | :--------: | :------: | :-----: | :--------: |
-|   <img src="/uploads/b4791806e1d8ca4a32c5f32cd89d0b65/image-4.png" width="100" height="100">    |   <img src="/uploads/296d4d790582241605ecb42ff06b15a8/image-5.png" width="100" height="100">    | <img src="/uploads/2fd08fc5e00ec03cd8caefee5452ba14/mog.png" width="100" height="100"> | <img src="/uploads/58867c6d0179bc526726ae7626d83fa8/image-9.png" width="100" height="100"> | <img src="/uploads/c5eccc59c9595aef959e6a69cfc653c6/image-10.png" width="100" height="100"> |
+|   <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/21294d8f-089e-4bac-9c2c-3395f72b4978" width="100" height="100">    |   <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/07cdd54e-36d9-4fb6-9451-69032c23ec5f" width="100" height="100">    | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/c205b26c-5a5a-4625-9cd0-11e1c8d37ea0" width="100" height="100"> | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/30963995-09b6-4a83-85ca-2aa7bf516497" width="100" height="100"> | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/f0407621-1263-4b42-9bd3-e41cd208a549" width="100" height="100"> |
 
 ### 인프라
 
-
 | Jenkins |   Docker  |  nginx   |  prometheus | Grafana | 
 | :--------: | :--------: | :------: | :-----: | :--------: |
-|   <img src="/uploads/777add1f8b2af7aea06f37755d9a8415/image-11.png" width="100" height="100">   | <img src="/uploads/e3a9d820b8d90e67b17fd830b98f9908/doc.png" width="100" height="100">    | <img src="/uploads/9627973f6e2be541052ef266c2bf8020/image-13.png" width="100" height="100"> | <img src="/uploads/7f43b163bf59e392b1214722252c86d3/image-14.png" width="100" height="100"> | <img src="/uploads/fed859911e53bde4872b8100670da8ae/image-15.png" width="100" height="100"> |
+|   <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/136b3fe0-03ea-41d9-a249-9d164518352a" width="100" height="100">   | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/cc432552-b299-4cfb-af96-b67a9d949f3c" width="100" height="100">    | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/59b9dfc5-250c-4d91-9680-ad0dd1ee27bb" width="100" height="100"> | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/57aa3091-c672-40a7-a6d9-73e516d40ec6" width="100" height="100"> | <img src="https://github.com/ahjinU/React_Togeball/assets/99533526/4f3c9804-ba24-4a25-9fd2-74eb3f2ade48" width="100" height="100"> |
 
 
 
 ## 핵심 기능
 
 ### 매칭 시스템
-<img src="/uploads/df5967699187ce6d0a3ea2404ba48b92/matching.gif" width="1000" height="600">
+
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/4a76b298-7117-4592-829f-38a951f79ef9" width="1000" height="600">
 
 - 매칭 
     - 프론트: 웹소켓을 이용한 통신, d3를 이용한 데이터 시각화 및 인터랙티브웹 구현
