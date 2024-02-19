@@ -1,4 +1,3 @@
-![image](https://github.com/ahjinU/React_Togeball/assets/99533526/32d14fb9-b0d3-4d46-a935-14498bb2246f)![matching](https://github.com/ahjinU/React_Togeball/assets/99533526/6670f74b-b978-48e0-8ced-a3f2b6d606a4)
 
 # ⚾️ Togeball - 야구 직관 메이트 매칭 플랫폼
 
@@ -98,15 +97,14 @@
 - 매칭 클릭 시 매칭을 시도하는 사람들과의 사용자 태그 기반 매칭 적용
 - 상위 6개의 태그 애니메이션으로 표시
 - 스케줄링 시간에 따라 2~6인으로 구성된 채팅방 생성
-
-<img src="/uploads/2ab94611d4bb994e1bf37a266563ad14/matchingmodal.PNG" width="500" height="300">
-<img src="/uploads/a648637416590e434a7c2ae498485719/matchingchat.PNG" width="500" height="300">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/9038fcb0-dba6-41df-a1cf-4dbb027c68a0" width="500" height="300">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/a033d86a-5ea7-4932-8426-7ca7ceac67c1" width="500" height="300">
 
 - Chat GPT 이용하여 태그들 조합의 적절한 채팅방 이름 생성
 
 #### 모집 채팅방
 
-<img src="/uploads/14b3dee7bcadfd97d29e99271a3ab7c1/%EB%AA%A8%EC%A7%91%EC%B1%84%ED%8C%85%EB%B0%A9%EC%B0%B8%EC%97%AC.gif" width="1000" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/4ed79438-7d1e-4741-af54-204c3bb126f1" width="1000" height="600">
 
 - 현재 활성화 된 채팅방 목록 제공
 - 경기 일자, 응원팀에 맞는 채팅방 찾는 필터 기능 제공
@@ -114,7 +112,7 @@
 
 #### 채팅방 생성
 
-<img src="/uploads/8a38c24551313b9dc6dd579ad23232be/recruitChatroom.gif" width="1000" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/7a15251e-0ac7-4321-a103-88bfdc6dbc74" width="1000" height="600">
 
 - 커스텀 주별 달력 활용하여 경기 선택
 - 경기에 맞는 응원팀 항목 제한
@@ -123,12 +121,13 @@
 #### 채팅방
 
 ##### 게임 채팅방 참여
-<img src="/uploads/5322f26a04c751b744dcf69d1441e952/gameChatroom.gif" width="1000" height="600">
+
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/721b856b-f4f9-406d-b784-ad6df8b9a74c" width="1000" height="600">
 
 - 대화 참가자 모두 표시
 
 #### 나의 채팅방 확인
-<img src="/uploads/4680a18e1f3990b21d7d7687d4eeda74/alarm.gif" width="1000" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/07a753a4-3c7f-4111-8905-0a9244f504fd" width="1000" height="600">
 
 - 나의 채팅방 목록 확인 및 채팅방 개별 알림
 - 최근 메시지 확인, 클릭 시 채팅방 이동
@@ -136,70 +135,73 @@
 #### 로그인 및 회원가입
 
 - 회원가입
-<img src="/uploads/0959f41a5deb7fd8995b558aee2c5772/signup.gif" width="1000" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/d2e9b51c-1e4b-4995-8ade-e745a8bef7a4" width="1000" height="600">
 
 - 로그인
-<img src="/uploads/f1f53d6672fe7e218b4fcddf6b9022c5/email_login.gif" width="400" height="300">
-<img src="/uploads/fb439e7ccac61913c2493377879db3e7/kakao_login.gif" width="400" height="300">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/f17b399f-9362-4f01-b9fa-3cca68c75725" width="400" height="300">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/d1930421-3f3a-46e8-87d7-9a075007e897" width="400" height="300">
 
 
 #### 경기 캘린더
 
 - 월별/주별 캘린더
-<img src="/uploads/37ec483af70852f172e1fcfb0a68f41a/calender__2_.gif" width="1000" height="600">
-
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/c31d55ec-01de-4d90-a460-ed4c01ed8cb2" width="1000" height="600">
 
 ### 백엔드
 
 #### Swagger API 확인
 
 - 채팅방 API
-<img src="/uploads/39b925c9230cf4218184faea4646d67b/image__7_.png" width="400" height="200">
+
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/df947fbe-cf5c-4e9e-83f3-e4098c2c858f" width="400" height="200">
 
 - 매칭, 태그 API
-<img src="/uploads/1842a2aeb09d29ec8141fd9e94efd7c8/image__8_.png" width="400" height="200">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/59943f9b-fd01-48b5-bb24-0b89ac7af32a" width="400" height="200">
 
 #### Postman API 확인
 
 - 게시판, 리그, 매칭, 알림 API
-<img src="/uploads/c89016184ee7c1c269ee4c6e4be3a4a4/post1.PNG" width="200" height="300">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/f2608ba2-c2cf-4653-9185-dc1dacd786cf" width="200" height="300">
 
 - 유저 API
-<img src="/uploads/e5fecafd100cdf4bdd914cfb9fb18350/post2.PNG" width="200" height="300">
+
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/66b1df5c-042d-496f-bdf8-a6832ba976df" width="200" height="300">
 
 - 인증 API
-<img src="/uploads/45d2f1225ace9f34aab8a5d0576562ca/post3.PNG" width="300" height="200">
+
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/97917e43-9b1a-4cf0-96a0-9295977d89be" width="300" height="200">
+
 
 - 채팅방 API
-<img src="/uploads/17a2d71501b2298330aeefcbefe0028e/post4.PNG" width="200" height="400">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/fa890911-3c3c-47ac-b4ad-9e664c705110" width="200" height="400">
+
 
 - 태그 API
-<img src="/uploads/1e338a96f1e9770ad113cc5d962b7c2d/post5.PNG" width="300" height="200">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/5f7c499b-d779-4072-ab6d-d90681c32626" width="300" height="200">
 
 ### 인프라
 
 #### 아키텍처 설계
 
-<img src="/uploads/9af32a0aadb0bc9f343859956785f79c/archi.png" width="800" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/6c262d39-c6bd-4d63-bd55-911e9a1e3a52" width="800" height="600">
 
 #### 모니터링 구현
 
 - 시스템 모니터링
-<img src="/uploads/04a5e0fea5de942bf477bb977934309b/node.PNG" width="800" height="600">
-
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/eccf99aa-1d43-47d1-a460-4705119d8554" width="800" height="600">
 
 - 젠킨스 모니터링
-<img src="/uploads/c22c5c25991da292e8dd3aedbb24c9fe/jen.PNG" width="800" height="600">
-
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/245d2074-0d27-49f1-86fd-fd61650cf134" width="800" height="600">
 
 - 엔진엑스 모니터링
-<img src="/uploads/e2d4b44087215aa45301455605559f5e/ngix.PNG" width="800" height="600">
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/2117593c-0f30-4cb2-a00c-a8aec901abf9" width="800" height="600">
 
 ## 기타 산출물
 
 
 #### ERD
-<img src="/uploads/2dc4599f4f4bf8789c63aa43821e13fd/erd.png" width="1000" height="600">
+
+<img src="https://github.com/ahjinU/React_Togeball/assets/99533526/5986a15a-8b0f-4cf8-8273-75734e2dd1be" width="1000" height="600">
 
 #### Figma 화면 설계서
 <img src="/uploads/5e8cb2e4a208929f44bcd9be87b465ee/figmain.png" width="1000" height="600">
